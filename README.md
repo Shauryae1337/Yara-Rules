@@ -1,4 +1,4 @@
-# YARA Rules Repository for Malware Detection
+# YARA Rules Repository 
 
 Welcome to the YARA Rules Repository for Malware Detection. This repository contains a collection of YARA rules designed to detect the latest versions of various malware families. Our goal is to provide security researchers and professionals with up-to-date and effective rules for identifying malicious software.
 
@@ -55,4 +55,6 @@ Please ensure your rules adhere to the YARA best practices and include test case
 Feel free to open an issue if you have any questions or run into any problems.
 
 Happy hunting!
+
+**WARNING: Handling and analyzing malware can be dangerous. Ensure you use a secure and isolated environment such as a virtual machine or a dedicated analysis system. Do not execute malware samples on your main system or any system connected to a network without proper precautions.**
 
